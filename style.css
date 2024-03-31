@@ -391,9 +391,8 @@ nav .fa-solid {
    .about-col-1{
     margin-bottom:40px;
    }
-
-  .about-col-1 img{
-    width:80%;
+    .about-col-1 img{
+    width:40%;
     border-radius:15px;
    }
    .about-col-2{
