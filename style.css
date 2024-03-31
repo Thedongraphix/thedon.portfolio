@@ -377,11 +377,11 @@ nav .fa-solid {
         display:block;
         margin:25px;
     }
-}   nav ul .fa-solid{
+   nav ul .fa-solid{
     position:absolute;
     top:25px;
     left:25px;
-}
+   }
    .sub-title{
     font-size: 40px;
    }
@@ -393,7 +393,7 @@ nav .fa-solid {
    }
 
   .about-col-1 img{
-    width:60%;
+    width:80%;
     border-radius:15px;
    }
    .about-col-2{
@@ -413,7 +413,6 @@ nav .fa-solid {
    .copyright{
     font-size:10px;
    }
- }
 #msg{
     color:#61b752;
     margin-top: -40px;
