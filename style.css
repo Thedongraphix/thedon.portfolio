@@ -110,7 +110,7 @@ nav ul li a:hover::after{
     background:#ff004f;
     position:absolute;
     left:0;
-    bottom:-8px;
+    bottom:-10px;
     transition:0.5s;
 }
 .tab-links.active-link::after{
@@ -172,7 +172,7 @@ nav ul li a:hover::after{
 .services-list div:hover{
     background: #ff004f;
     transform:translateY(-10px);
-    transition:0.4s;
+    transition:0.5s;
     
 
 
