@@ -371,6 +371,15 @@ nav .fa-solid {
         display:block;
         font-size:25px;
     }
+    nav label.logo{
+    font-size:15px;
+    color:#fff;
+    line-height:80px;
+    padding-bottom: 1ll0px;
+    padding-left:30px;
+    font-weight: bold;
+    position: relative;
+}
     nav ul{
         background:#ff004f;
         position: fixed;
