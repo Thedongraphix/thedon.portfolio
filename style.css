@@ -10,6 +10,8 @@ html{
 body{
     background-color:#000000;
     color:white;
+.logo{
+ width:140px;
 }
 #header{
    width:100%;
